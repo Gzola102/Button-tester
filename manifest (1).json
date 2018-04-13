@@ -1,7 +1,11 @@
 {
   "manifest_version": 2,
 
+ patch-1
   "name": "Button",
+=======
+  "name": "Peepee man says: lol",
+ master
   "description": "This extension should just be a button",
   "version": "1.0",
 
